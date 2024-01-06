@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* Hear Section */
+
+.header {
+    background-image: url(../images/banner/banner3.png);
+    width: 1600px;
+    height: 808px;
+    flex-shrink: 0;
+}
+
+.banner-content {
+    width: 525px;
+    padding: 216px 230px 166px 845px;
+}
+
+.banner-title {
+    width: 525px;
+    height: 228px;
+    color: #FFF;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 65px;
+    font-weight: 700;
+    padding-bottom: 24px;
+
+}
+
+
+.banner-description {
+    height: 78px;
+    color: #FFF;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    padding-bottom: 32px;
+
+}
+
+.btn-c {
+    display: block;
+    text-align: right;
+}
+
+.btn-normal {
+    color: #005FAC;
+    font-size: 20px;
+    font-weight: 600;
+
+    border: none;
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FFF;
+}
+
+/* Main Section */
+.failures {
+    padding: 140px 322px 214px 200px;
+    display: flex;
+    gap: 134px;
+
+}
+
+.f-colum2 {
+    padding-top: 230px;
+}
+
+.failures-title {
+    width: 288px;
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    padding-bottom: 24px;
+
+}
+
+.failures-description {
+    width: 416px;
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    padding-bottom: 16px;
+}
+
+.list {
+    list-style:circle;
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+}
